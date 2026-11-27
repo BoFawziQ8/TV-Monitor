@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework><UseWindowsForms>true</UseWindowsForms><ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><EnableDefaultCompileItems>false</EnableDefaultCompileItems></PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Check.cs" />
+    <Compile Include="../TvMonitor/StreamRemoteBar.cs" /><Compile Include="../TvMonitor/FluentDesign.cs" />
+    <Compile Include="../TvMonitor/RemoteForm.cs" /><Compile Include="../TvMonitor/RemoteSession.cs" />
+    <Compile Include="../TvMonitor/TvAddress.cs" /><Compile Include="../TvMonitor/TvRecovery.cs" /><Compile Include="../TvMonitor/Network.cs" /><Compile Include="../TvMonitor/Discovery.cs" /><Compile Include="../TvMonitor/TvActions.cs" />
+    <Compile Include="../TvMonitor/TvCustomization.cs" /><Compile Include="../TvMonitor/AudioTransport.cs" />
+    <Compile Include="../TvMonitor/RestorePoints.cs" /><Compile Include="../TvMonitor/TvRestoreSettings.cs" /><Compile Include="../TvMonitor/AppText.cs" />
+    <EmbeddedResource Include="../TvMonitor/Arabic.txt" LogicalName="TvMonitor.Arabic" />
+    <EmbeddedResource Include="../TvMonitor/TvMonitor.ico" LogicalName="TvMonitor.ico" />
+    <Content Include="../../outputs/TV Monitor/scrcpy/*" Link="scrcpy/%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>
+
+

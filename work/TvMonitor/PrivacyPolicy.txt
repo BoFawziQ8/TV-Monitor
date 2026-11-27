@@ -1,0 +1,50 @@
+TV Monitor - Privacy policy
+Publisher: BoFawzi
+Effective date: 2026-11-13
+Website and contact: https://bofawzi.blogspot.com/
+
+TV Monitor connects your Windows PC to compatible TVs on your own network. Use it only with devices you own or are authorized to control.
+
+Information used
+The app discovers local device names, models, network addresses and service ports. It reads supported TV power state, active app/input, device identity and settings. Saved TVs, LG pairing keys, language, recovery history and restore points are stored in your Windows user profile. Android Debug Bridge may also store device authorization keys in your profile. Pairing keys and exported restore points are not encrypted by TV Monitor.
+
+Video, audio and microphone
+When you start a viewing or audio session, screen and supported playback audio travel between the selected TV and your PC. Talk sends your PC microphone to the selected TV. TV microphone listening receives audio from the TV's microphone when supported and approved. These streams are processed for the active session; TV Monitor does not provide an automatic cloud recording or cloud upload service. Stop the session to stop that feature. TV/Windows permissions and protected-content restrictions still apply.
+
+Network and third parties
+The app communicates directly with local TVs through Android Debug Bridge, supported LG interfaces and discovery protocols. BoFawzi does not operate a TV Monitor server that receives your TV list, viewing streams or microphone audio. This build contains no advertising or analytics service. Google Play actions open Google services on the TV. Website links open your browser. Those services, Microsoft Store purchase/account processing, and Windows diagnostics follow their providers' own privacy policies.
+
+File transfers
+When you select Send files to TV, the app reads the PC files you choose and sends their names and contents directly to the selected Android TV's shared storage. These files remain on the TV until you remove them there. They are not sent to BoFawzi. Transfers do not automatically play media or install applications. Cancellation keeps files already completed and attempts to remove the unfinished temporary upload; a disconnected TV may retain a temporary file.
+
+Settings and restore points
+Backups may contain TV names, network addresses, device identifiers, settings and pairing information. Exporting a backup copies it to the location you choose. Protect exported files and share them only with people you trust. TV Monitor does not send those files to BoFawzi. Private TV app data, passwords and full firmware are not included in its supported settings backup.
+
+Your choices and retention
+Remove saved TVs through the app. Manage exported backups at the locations you chose. App settings and restore points remain in your Windows profile until you remove them or Windows removes the app's data. Uninstalling may leave settings or Android Debug Bridge keys outside the package; review your profile if you need to remove them. Revoke PC authorization on the TV to prevent future access. You control when to start or stop live viewing, microphone and audio sessions.
+
+Children and changes
+TV Monitor is a general device-control utility and is not directed at collecting information from children. Changes to these practices will be reflected in an updated policy included with the app.
+
+Contact the creator through https://bofawzi.blogspot.com/ for privacy questions.
+
+نقل الملفات: عند اختيار «إرسال ملفات إلى التلفزيون» يقرأ البرنامج الملفات التي تحددها ويرسل أسماءها ومحتوياتها مباشرة إلى مساحة التخزين المشتركة في تلفزيون Android المحدد. تبقى الملفات على التلفزيون حتى تحذفها منه، ولا تُرسل إلى BoFawzi. لا يشغّل النقل الوسائط ولا يثبّت التطبيقات تلقائيًا. يُبقي الإلغاء الملفات المكتملة ويحاول حذف الرفع المؤقت غير المكتمل؛ وقد يبقى ملف مؤقت عند انقطاع الاتصال.
+
+سياسة خصوصية TV Monitor
+الناشر: BoFawzi
+تاريخ السريان: 2026-11-13
+الموقع والتواصل: https://bofawzi.blogspot.com/
+
+يربط البرنامج كمبيوتر Windows بالتلفزيونات المتوافقة على شبكتك المحلية. استخدمه فقط مع الأجهزة التي تملكها أو المصرح لك بالتحكم بها.
+
+يستخدم البرنامج أسماء الأجهزة وطرازاتها وعناوين الشبكة والمنافذ وحالة التشغيل والتطبيق أو المدخل النشط ومعرّفات الأجهزة والإعدادات المدعومة. تُحفظ قائمة التلفزيونات ومفاتيح إقران LG واللغة وسجل الاستعادة ونقاط الاستعادة في ملف مستخدم Windows. قد يحفظ Android Debug Bridge مفاتيح تفويض الأجهزة أيضًا. لا يشفّر TV Monitor مفاتيح الإقران أو ملفات الاستعادة المصدّرة.
+
+عند تشغيل المشاهدة ينتقل الفيديو والصوت المدعوم بين التلفزيون والكمبيوتر. ترسل ميزة التحدث صوت ميكروفون الكمبيوتر إلى التلفزيون المحدد، وتستقبل ميزة الاستماع صوت ميكروفون التلفزيون عند دعمه والموافقة عليه. تُعالج التدفقات أثناء الجلسة ولا يوفر البرنامج خدمة تسجيل أو رفع سحابي تلقائي. أوقف الجلسة لإيقاف الميزة. تبقى موافقات التلفزيون وWindows وقيود المحتوى المحمي سارية.
+
+يتواصل البرنامج مباشرة مع الأجهزة المحلية. لا يشغّل BoFawzi خادمًا يستقبل قائمة تلفزيوناتك أو بث المشاهدة أو صوت الميكروفون. لا يتضمن هذا الإصدار خدمة إعلانات أو تحليلات. تفتح إجراءات Google Play خدمات Google على التلفزيون وتفتح روابط الموقع متصفحك؛ تخضع هذه الخدمات ومشتريات Microsoft Store وتشخيصات Windows لسياسات الجهات المقدمة لها.
+
+قد تحتوي النسخ الاحتياطية على أسماء التلفزيونات وعناوين الشبكة والمعرّفات والإعدادات ومعلومات الإقران. تُصدّر إلى المكان الذي تختاره ولا تُرسل إلى BoFawzi. احمِ الملفات وشاركها فقط مع من تثق به. لا يشمل النسخ المدعوم بيانات التطبيقات الخاصة أو كلمات المرور أو النظام الكامل للتلفزيون.
+
+يمكنك إزالة التلفزيونات المحفوظة وإدارة النسخ المصدّرة. تبقى الإعدادات ونقاط الاستعادة في ملف المستخدم إلى أن تحذفها أو يزيل Windows بيانات التطبيق. قد تترك إزالة التثبيت إعدادات أو مفاتيح ADB خارج الحزمة. ألغِ تفويض الكمبيوتر من التلفزيون لمنع الوصول لاحقًا. أنت من يبدأ ويوقف المشاهدة والصوت والميكروفون.
+
+البرنامج أداة عامة للتحكم بالأجهزة ولا يستهدف جمع بيانات الأطفال. تُدرج التغييرات في السياسة المحدثة داخل التطبيق. للاستفسارات تواصل عبر موقع المنشئ المذكور أعلاه.

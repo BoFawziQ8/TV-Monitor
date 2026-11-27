@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Local publish / package staging (built locally, attached to Releases instead)
+outputs/
+work/store-publish/
+*.msix
+*.msixupload
+
+# Signing material - never commit
+work/TvPopup/popup-signing.*
+
+# Personal TV recovery history (device-specific, kept out of source)
+work/TvMonitor/KLightTV/PreviousSetup.json
+work/TvMonitor/KLightTV/*.json
+
+# Logs and scratch
+*.log
+*.tmp

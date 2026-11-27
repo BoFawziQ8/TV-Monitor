@@ -1,0 +1,530 @@
+About|حول
+About TV Monitor|حول TV Monitor
+Close|إغلاق
+Checking saved TVs…|جارٍ فحص أجهزة التلفزيون المحفوظة…
+Refresh|تحديث
+Scan for TVs|فحص الشبكة
+Add TV|إضافة تلفزيون
+Edit TV|تعديل التلفزيون
+Remove|إزالة
+Remote|التحكم
+Audio|الصوت
+Install app|تثبيت
+TV|التلفزيون
+Power|الطاقة
+Current app / input|التطبيق أو المدخل الحالي
+IP address|عنوان IP
+Type|النوع
+Watch live|مشاهدة مباشرة
+Stop live view|إيقاف المشاهدة
+Pair LG|إقران LG
+Send message|إرسال رسالة
+Power on|تشغيل
+Power off|إيقاف التشغيل
+Restart|إعادة التشغيل
+Automatic refresh every 12 seconds.|يُحدَّث تلقائيًا كل 12 ثانية.
+Waiting for the first check.|بانتظار الفحص الأول.
+Pair to check|يلزم الإقران
+On|يعمل
+Standby|وضع الاستعداد
+Screen off|الشاشة مطفأة
+Unknown|غير معروف
+Checking…|جارٍ الفحص…
+Android TV|Android TV
+LG webOS|LG webOS
+Unverified|غير متحقق منه
+Add a TV by IP address or try Discover TVs.|أضف تلفزيونًا بعنوان IP أو استخدم البحث عن التلفزيونات.
+Timed out. Check the TV and try again.|انتهت مهلة الاتصال. تحقق من التلفزيون وحاول مجددًا.
+Checking TV power and current apps…|جارٍ فحص حالة الطاقة والتطبيقات الحالية…
+Scanning your local network for Wi-Fi and wired TVs…|جارٍ البحث عن أجهزة التلفزيون اللاسلكية والسلكية على شبكتك…
+Approve the TV Monitor prompt on the LG screen. Waiting up to 45 seconds…|وافق على طلب TV Monitor على شاشة LG. مدة الانتظار 45 ثانية…
+LG paired. The dashboard will refresh automatically.|تم إقران LG. ستتحدث القائمة تلقائيًا.
+Stop the current audio session before switching TVs.|أوقف جلسة الصوت الحالية قبل تبديل التلفزيون.
+Android app package (*.apk)|حزمة تطبيق Android ‏(*.apk)
+App installed|تم تثبيت التطبيق
+App could not be installed|تعذّر تثبيت التطبيق
+Message could not be confirmed|تعذّر تأكيد إرسال الرسالة
+TV action could not be confirmed|تعذّر تأكيد تنفيذ الأمر
+A TV is already saved at that address and port.|يوجد تلفزيون محفوظ بهذا العنوان والمنفذ.
+Stop this TV’s audio session first.|أوقف جلسة الصوت لهذا التلفزيون أولًا.
+Could not open scrcpy.|تعذّر فتح scrcpy.
+Live view closed unexpectedly. Refresh and check ADB authorization.|أُغلقت المشاهدة فجأة. حدّث الحالة وتحقق من تفويض ADB.
+Preparing Android 10 playback audio…|جارٍ إعداد صوت التشغيل لنظام Android 10…
+On the TV, allow audio access if asked, then choose Start now to share TV sound.|على التلفزيون، اسمح بالوصول إلى الصوت عند الطلب، ثم اختر البدء الآن لمشاركة الصوت.
+TV audio connected. Play a clip to check the sound.|تم توصيل صوت التلفزيون. شغّل مقطعًا للتحقق من الصوت.
+Receiving TV sound on Windows. Closing the live view stops audio sharing.|يجري استقبال صوت التلفزيون على ويندوز. إغلاق المشاهدة يوقف مشاركة الصوت.
+A TV setup command timed out. Reopen Watch live to retry.|انتهت مهلة إعداد التلفزيون. أعد فتح المشاهدة المباشرة للمحاولة مجددًا.
+Saved TV settings could not be loaded. |تعذّر تحميل إعدادات التلفزيونات المحفوظة. 
+The TV list changed for this session. Windows could not save it. |تغيّرت قائمة التلفزيونات لهذه الجلسة فقط. تعذّر حفظها في ويندوز. 
+Add a TV|إضافة تلفزيون
+TV name|اسم التلفزيون
+IPv4 address|عنوان IPv4
+Port|المنفذ
+Wake MAC|عنوان MAC للتشغيل
+Optional • TV network MAC address|اختياري • عنوان MAC لشبكة التلفزيون
+Android TV / Google TV|Android TV / Google TV
+Other / unknown|أخرى / غير معروف
+Save|حفظ
+Cancel|إلغاء
+Enter a TV name and a valid IPv4 address.|أدخل اسم التلفزيون وعنوان IPv4 صالحًا.
+Enter the LG webOS local WebSocket port, usually 3000.|أدخل منفذ WebSocket المحلي لتلفزيون LG، وعادةً يكون 3000.
+Enter the TV’s MAC address, such as 00:11:22:33:44:55, or leave it blank.|أدخل عنوان MAC للتلفزيون، مثل 00:11:22:33:44:55، أو اتركه فارغًا.
+The first send installs a small popup helper. The message may pause playback and closes after 30 seconds.|عند الإرسال أول مرة يُثبَّت تطبيق مساعد صغير. قد يتوقف التشغيل مؤقتًا، وتُغلق الرسالة بعد 30 ثانية.
+The TV may display a brief notification if it declines a message box.|قد يعرض التلفزيون إشعارًا قصيرًا إذا تعذّر عرض مربع الرسالة.
+Message to display on the TV|الرسالة التي ستظهر على التلفزيون
+Send|إرسال
+TV Audio|صوت التلفزيون
+Stopping the microphone…|جارٍ إيقاف الميكروفون…
+Talk uses the default Windows microphone. The first use installs or updates the helper on the TV.|يستخدم التحدث ميكروفون ويندوز الافتراضي. عند الاستخدام الأول يُثبَّت التطبيق المساعد على التلفزيون أو يُحدَّث.
+Audio over this TV’s network connection is unavailable.|الصوت عبر الشبكة غير متاح لهذا التلفزيون.
+Audio controls require a compatible Android TV.|تتطلب أدوات الصوت تلفزيون Android متوافقًا.
+Talk is available. Listening to the TV or its microphone requires Android 11 or later.|التحدث متاح. الاستماع إلى التلفزيون أو ميكروفونه يتطلب Android 11 أو أحدث.
+Listen on PC moves TV sound to Windows. Listen to TV mic uses the input selected by Android.|ينقل الاستماع على الكمبيوتر صوت التلفزيون إلى ويندوز. يستمع خيار ميكروفون التلفزيون إلى المدخل الذي اختاره Android.
+Listen on PC plays TV sound. Listen to TV mic uses the input selected by Android.|يُشغّل الاستماع على الكمبيوتر صوت التلفزيون. يستمع خيار ميكروفون التلفزيون إلى المدخل الذي اختاره Android.
+Stop listening|إيقاف الاستماع
+Listen on PC|استماع على الكمبيوتر
+Stop TV mic|إيقاف ميكروفون التلفزيون
+Listen to TV mic|استماع إلى ميكروفون التلفزيون
+Start talking|بدء التحدث
+Stop talking|إيقاف التحدث
+Listening stopped.|توقف الاستماع.
+Stop the live view, then start TV mic. You can reopen the video while listening.|أوقف المشاهدة، ثم شغّل ميكروفون التلفزيون. يمكنك إعادة فتح الفيديو أثناء الاستماع.
+The live view is already set to play this TV’s audio on the PC.|المشاهدة المباشرة مضبوطة بالفعل على تشغيل صوت التلفزيون على الكمبيوتر.
+Connecting to the TV microphone…|جارٍ الاتصال بميكروفون التلفزيون…
+Connecting to the TV’s audio…|جارٍ الاتصال بصوت التلفزيون…
+Turn on and connect the TV first.|شغّل التلفزيون ووصّله بالشبكة أولًا.
+Listening requires Android 11 or later.|يتطلب الاستماع Android 11 أو أحدث.
+Could not start the audio player.|تعذّر تشغيل مشغّل الصوت.
+TV microphone stream started. Click Stop TV mic to end.|بدأ بث ميكروفون التلفزيون. اضغط على إيقاف ميكروفون التلفزيون للإنهاء.
+Listening on PC. Compatible apps also keep playing on the TV.|يجري الاستماع على الكمبيوتر. تواصل التطبيقات المتوافقة تشغيل الصوت على التلفزيون أيضًا.
+Listening on PC. Stop listening to restore audio on the TV.|يجري الاستماع على الكمبيوتر. أوقف الاستماع لإعادة الصوت إلى التلفزيون.
+Listening ended.|انتهى الاستماع.
+The TV audio stream ended.|انتهى بث صوت التلفزيون.
+Windows has no recording device available. Connect or enable a microphone to talk.|لا يتوفر جهاز تسجيل في ويندوز. صِل ميكروفونًا أو فعّله للتحدث.
+Close the live view first, then start talking. You can reopen video while talking.|أغلق المشاهدة المباشرة أولًا، ثم ابدأ التحدث. يمكنك إعادة فتح الفيديو أثناء التحدث.
+Stop listening before starting the microphone.|أوقف الاستماع قبل تشغيل الميكروفون.
+Preparing the audio receiver on the TV…|جارٍ إعداد مستقبل الصوت على التلفزيون…
+Microphone live. Click Stop talking to end.|الميكروفون يعمل. اضغط على إيقاف التحدث للإنهاء.
+The microphone stopped.|توقف الميكروفون.
+Microphone stopped. Click Listen on PC to hear the TV again.|توقف الميكروفون. اضغط على الاستماع على الكمبيوتر لسماع التلفزيون مجددًا.
+Home|الرئيسية
+Back|رجوع
+Input|المدخل
+Settings|الإعدادات
+OK|موافق
+CH −|القناة −
+CH +|القناة +
+Vol −|الصوت −
+Vol +|الصوت +
+Mute|كتم الصوت
+Play|تشغيل الوسائط
+Pause|إيقاف مؤقت
+Keyboard  ↑ ↓ ← →   Enter   Esc   0–9|لوحة المفاتيح: الأسهم وEnter وEsc والأرقام 0–9
+Choose a button to connect.|اضغط زرًا للاتصال.
+The TV did not respond in time.|لم يستجب التلفزيون خلال المهلة.
+Set the TV type and current IP using Edit TV.|حدّد نوع التلفزيون وعنوان IP الحالي من خيار تعديل التلفزيون.
+No response before timeout.|انتهت المهلة دون استجابة.
+ADB could not start.|تعذّر تشغيل ADB.
+ADB did not answer. The TV may be asleep, disconnected, or using a different IP.|لم يستجب ADB. قد يكون التلفزيون في وضع الاستعداد أو غير متصل أو يستخدم عنوان IP مختلفًا.
+Approve the USB debugging prompt on the TV, then refresh.|وافق على تصحيح أخطاء USB على التلفزيون، ثم حدّث الحالة.
+ADB session disconnected. The next refresh will reconnect.|انقطع اتصال ADB. ستُعاد المحاولة عند التحديث التالي.
+Android reports that the display is off.|يفيد Android بأن الشاشة مطفأة.
+Android reports standby or sleep.|يفيد Android بأن التلفزيون في وضع الاستعداد أو السكون.
+Live view available for Android surfaces the TV can capture.|تتوفر المشاهدة المباشرة لمحتوى Android الذي يمكن للتلفزيون التقاطه.
+No display power state was returned. Check the TV’s ADB authorization.|لم يرسل التلفزيون حالة الشاشة. تحقق من تفويض ADB.
+Live TV|البث التلفزيوني
+webOS did not answer. Power state is unknown.|لم يستجب webOS. حالة الطاقة غير معروفة.
+webOS reachable. Pair to read power and the current app or input.|يمكن الاتصال بـ webOS. أقرن التلفزيون لمعرفة حالة الطاقة والتطبيق أو المدخل الحالي.
+Pairing is required. Choose Pair LG and approve the TV prompt.|يلزم الإقران. اختر إقران LG ووافق على الطلب على التلفزيون.
+Paired. The TV timed out when asked for status.|تم الإقران، لكن التلفزيون لم يرسل حالته خلال المهلة.
+Paired. Power state unavailable.|تم الإقران. حالة الطاقة غير متاحة.
+webOS status only · live video unavailable.|تتوفر حالة webOS فقط. الفيديو المباشر غير متاح.
+Unexpected webOS response.|ردّ غير متوقع من webOS.
+Talk requires an Android TV.|يتطلب التحدث تلفزيون Android.
+TV audio did not start. Reopen Watch live and approve both prompts on the TV.|لم يبدأ صوت التلفزيون. أعد فتح المشاهدة المباشرة ووافق على الطلبين على التلفزيون.
+Unexpected Android audio response.|ردّ صوت غير متوقع من Android.
+Windows stopped the audio output.|أوقف ويندوز إخراج الصوت.
+Windows audio output failed. |تعذّر إخراج الصوت في ويندوز. 
+The TV stopped sharing sound. Reopen Watch live to start a new audio session.|توقف التلفزيون عن مشاركة الصوت. أعد فتح المشاهدة المباشرة لبدء جلسة جديدة.
+Remote control is unavailable for this TV type.|التحكم عن بُعد غير متاح لهذا النوع من التلفزيونات.
+The TV did not provide a remote socket at its own IP address.|لم يوفّر التلفزيون اتصالًا للتحكم عبر عنوان IP الخاص به.
+The LG popup response could not be verified.|تعذّر التحقق من استجابة LG للرسالة المنبثقة.
+The bundled TV Monitor helper APK is missing.|ملف التطبيق المساعد المرفق مع TV Monitor مفقود.
+APK installation requires an Android TV.|يتطلب تثبيت APK تلفزيون Android.
+Choose an existing Android APK file.|اختر ملف APK موجودًا.
+Restart is available for Android TV.|تتوفر إعادة التشغيل لتلفزيونات Android.
+Could not read the Android boot ID. Check the TV’s ADB connection.|تعذّرت قراءة معرّف إقلاع Android. تحقق من اتصال ADB بالتلفزيون.
+Choose Pair LG and approve the request on the TV first.|اختر إقران LG ووافق على الطلب على التلفزيون أولًا.
+Pair LG again to authorize this action.|أعد إقران LG لتفويض هذا الإجراء.
+No wake address is saved. Enter the TV’s network MAC address in Edit TV.|لا يوجد عنوان تشغيل محفوظ. أدخل عنوان MAC لشبكة التلفزيون في تعديل التلفزيون.
+Wake-on-LAN requires the PC and TV to be on the same IPv4 subnet.|يتطلب التشغيل عبر الشبكة أن يكون الكمبيوتر والتلفزيون على شبكة IPv4 الفرعية نفسها.
+Stop any live or audio session and wait for the current TV action before switching languages.|أوقف البث المباشر أو جلسة الصوت، وانتظر انتهاء الإجراء الحالي قبل تغيير اللغة.
+Could not save the language. |تعذّر حفظ اللغة. 
+{0} on    ·    {1} standby    ·    {2} screen off    ·    {3} unknown    ·    {4} saved|يعمل: {0}  ·  استعداد: {1}  ·  شاشة مطفأة: {2}  ·  غير معروف: {3}  ·  محفوظ: {4}
+Updated {0:t}  ·  Refreshes every 12 seconds|آخر تحديث: {0:t}  ·  يُحدَّث كل 12 ثانية
+Scan found {0} devices · {1} added · {2} identified. Use Add TV for a known IP.|عُثر على {0} أجهزة · أُضيف {1} · تم التعرّف على {2}. استخدم إضافة تلفزيون لعنوان IP معروف.
+Choose an APK to install on {0}|اختر ملف APK لتثبيته على {0}
+Installing {0} on {1}…|جارٍ تثبيت {0} على {1}…
+{0} installed on {1}.|تم تثبيت {0} على {1}.
+Installation on {0} failed.|فشل التثبيت على {0}.
+Sending a message to {0}…|جارٍ إرسال رسالة إلى {0}…
+Restarting {0} and waiting for it to reconnect…|جارٍ إعادة تشغيل {0} وانتظار إعادة الاتصال…
+Checking {0} after the power command…|جارٍ التحقق من {0} بعد تنفيذ أمر الطاقة…
+Checking {0} before opening the live view…|جارٍ التحقق من {0} قبل فتح المشاهدة المباشرة…
+Mouse controls the TV · Alt or Win releases it|الفأرة تتحكم بالتلفزيون · اضغط Alt أو Win للحصول عليها
+Alt releases the TV mouse|Alt لتحرير فأرة التلفزيون
+Opening {0}. Approve audio sharing on the TV when prompted.|جارٍ فتح {0}. وافق على مشاركة الصوت على التلفزيون عند الطلب.
+Opening {0} with audio…|جارٍ فتح {0} مع الصوت…
+Opening {0} with audio routed to the PC…|جارٍ فتح {0} مع نقل الصوت إلى الكمبيوتر…
+Opening {0} in video-only mode…|جارٍ فتح {0} في وضع الفيديو فقط…
+{0} live view closed.|أُغلقت المشاهدة المباشرة لـ {0}.
+To {0}|إلى {0}
+{0} · Remote|{0} · جهاز التحكم
+Sending {0}…|جارٍ إرسال الأمر: {0}…
+Sent {0}.|تم إرسال الأمر: {0}.
+Turn on and connect {0} before sending. {1}|شغّل {0} ووصّله بالشبكة قبل الإرسال. {1}
+{0} accepted the popup.|وافق {0} على عرض الرسالة المنبثقة.
+{0} accepted the message as a brief notification.|وافق {0} على عرض الرسالة كإشعار قصير.
+LG declined the message. Try Pair LG again. {0}|رفض LG الرسالة. جرّب إعادة إقران LG. {0}
+Android could not open the popup. {0}|تعذّر على Android فتح الرسالة المنبثقة. {0}
+{0} accepted the popup. It closes with OK or after 30 seconds.|وافق {0} على عرض الرسالة. تُغلق بالضغط على موافق أو بعد 30 ثانية.
+Connect or wake {0} before installing an app.|وصّل {0} أو أخرجه من وضع الاستعداد قبل تثبيت التطبيق.
+ADB is unavailable on {0}. Check the TV’s debugging approval. {1}|اتصال ADB غير متاح على {0}. تحقّق من تفويض تصحيح الأخطاء. {1}
+Android did not install the APK. {0}|لم يثبّت Android ملف APK. {0}
+{0} is already on.|{0} يعمل بالفعل.
+{0} is already in standby.|{0} في وضع الاستعداد بالفعل.
+{0} is on.|{0} يعمل.
+{0} is in standby.|{0} في وضع الاستعداد.
+Wake requested for {0}. The TV did not report that it was on.|تم طلب تشغيل {0}، لكن التلفزيون لم يؤكد تشغيله.
+Standby requested for {0}. The resulting power state could not be confirmed.|تم طلب وضع الاستعداد لـ {0}، لكن تعذّر تأكيد حالته.
+Android did not confirm the key press. {0}|لم يؤكّد Android ضغطة الزر. {0}
+ADB reported a restart error. {0}|أبلغ ADB عن خطأ في إعادة التشغيل. {0}
+{0} restarted and reconnected.|أُعيد تشغيل {0} واتصل مجددًا.
+Restart requested for {0}. A new Android boot could not be verified.|تم طلب إعادة تشغيل {0}، لكن تعذّر تأكيد إقلاع Android من جديد.
+LG did not acknowledge the command. {0}|لم يؤكّد LG تنفيذ الأمر. {0}
+Turn on and connect {0} before talking. {1}|شغّل {0} ووصّله بالشبكة قبل التحدث. {1}
+Android could not start the audio receiver. {0}|تعذّر على Android تشغيل مستقبل الصوت. {0}
+{0} did not acknowledge its audio receiver.|لم يؤكّد {0} تشغيل مستقبل الصوت.
+The TV could not open the audio approval prompt. {0}|تعذّر على التلفزيون فتح طلب الموافقة على الصوت. {0}
+Could not open the audio tunnel. {0}|تعذّر فتح اتصال الصوت. {0}
+Turn on and connect {0}. {1}|شغّل {0} ووصّله بالشبكة. {1}
+LG declined remote access. Try Pair LG again. {0}|رفض LG التحكم عن بُعد. جرّب إعادة إقران LG. {0}
+Version {0}  ·  Created {1:yyyy-MM-dd}|الإصدار {0} · تاريخ الإنشاء {1:yyyy-MM-dd}
+TV Tools|أدوات التلفزيون
+Restore previous setup|استعادة الإعداد السابق
+Open settings on TV|فتح الإعدادات على التلفزيون
+General|عام
+Display|الشاشة
+Sound|الصوت
+Network|الشبكة
+Apps|التطبيقات
+Launch selected app|فتح التطبيق المحدّد
+Refresh TV apps|تحديث التطبيقات
+Installed TV apps|تطبيقات التلفزيون المثبّتة
+Turn on the TV, then choose a tool.|شغّل التلفزيون، ثم اختر أداة.
+Connecting to the TV…|جارٍ الاتصال بالتلفزيون…
+The TV command timed out. Reconnect and check the result before retrying.|انتهت مهلة أمر التلفزيون. أعد الاتصال وتحقق من النتيجة قبل المحاولة مجددًا.
+No launchable TV apps were reported.|لم يبلّغ التلفزيون عن تطبيقات قابلة للفتح.
+{0} TV apps found. Select one to launch it.|عُثر على {0} تطبيقات تلفزيون. اختر تطبيقًا لفتحه.
+Settings opened on the TV.|فُتحت الإعدادات على التلفزيون.
+Opened {0} on the TV.|تم فتح {0} على التلفزيون.
+Android returned an invalid app activity.|أعاد Android اسم نشاط تطبيق غير صالح.
+The TV is already using a different Home and screensaver.|يستخدم التلفزيون بالفعل رئيسية وشاشة توقف مختلفتين.
+No previous setup is saved for this TV.|لا توجد إعدادات سابقة محفوظة لهذا التلفزيون.
+Previous Home and screensaver settings restored.|تمت استعادة إعدادات الرئيسية وشاشة التوقف السابقة.
+The setup changed only partly. Reconnect the TV and use Restore previous setup. |تغيّر جزء من الإعدادات. أعد توصيل التلفزيون واستخدم استعادة الإعداد السابق. 
+The change could not be verified. The previous settings were restored. |تعذّر تأكيد التغيير، وتمت استعادة الإعدادات السابقة. 
+The previous Home activity is invalid.|نشاط الرئيسية السابق غير صالح.
+Android did not report the requested Home and screensaver settings.|لم يُبلّغ Android عن إعدادات الرئيسية وشاشة التوقف المطلوبة.
+Android has no saved default Home app to restore.|لا يوجد تطبيق رئيسية افتراضي محفوظ لاستعادته.
+Could not identify the TV for a safe settings backup.|تعذّر التحقق من هوية التلفزيون لحفظ نسخة آمنة من الإعدادات.
+Turn on and connect the Android TV before using TV Tools.|شغّل تلفزيون Android ووصّله بالشبكة قبل استخدام أدوات التلفزيون.
+Could not read the current Android user.|تعذّرت قراءة مستخدم Android الحالي.
+The TV could not open that screen. |تعذّر على التلفزيون فتح تلك الشاشة. 
+Android did not complete the command. |لم يُكمل Android تنفيذ الأمر. 
+
+Saved TVs|التلفزيونات المحفوظة
+Choose a TV|اختر تلفزيونًا
+Select a saved TV to see its controls.|اختر تلفزيونًا محفوظًا لعرض أدوات التحكم.
+Control|التحكم
+Apps & customization|التطبيقات والتخصيص
+Creator website|موقع المطوّر
+Could not open the website. |تعذّر فتح الموقع. 
+
+TVs|التلفزيونات
+Instructions|الإرشادات
+Main tabs|علامات التبويب الرئيسية
+Backup & restore|النسخ والاستعادة
+Restore points|نقاط الاستعادة
+Optional restore point name|اسم اختياري لنقطة الاستعادة
+Restore point name|اسم نقطة الاستعادة
+Create app point|نسخ إعدادات التطبيق
+Create TV point|نسخ إعدادات التلفزيون
+Export selected|تصدير المحددة
+Import point|استيراد نقطة
+Restore selected|استعادة المحددة
+Refresh points|تحديث النقاط
+Manual app point|نقطة تطبيق يدوية
+TV point|نقطة تلفزيون
+Initial app settings|إعدادات التطبيق الأولية
+Before app restore|قبل استعادة التطبيق
+Before settings change|قبل تغيير الإعدادات
+App|التطبيق
+App restore point created and verified.|تم إنشاء نقطة استعادة التطبيق والتحقق منها.
+TV to back up or restore|التلفزيون المراد نسخه أو استعادته
+Saved restore points|نقاط الاستعادة المحفوظة
+Restore point details and supported settings|تفاصيل نقطة الاستعادة والإعدادات المدعومة
+An undo point is saved before every restore. App changes also create automatic points. Android authorization may be needed again on another PC.|تُحفظ نقطة تراجع قبل كل استعادة. تُنشأ نقاط تلقائية أيضًا عند تغيير إعدادات التطبيق. قد يلزم السماح باتصال Android مجددًا على كمبيوتر آخر.
+Select a connected Android TV. LG webOS does not expose a full settings restore API in this app.|اختر تلفزيون Android متصلًا. لا يوفّر LG webOS واجهة استعادة كاملة للإعدادات في هذا البرنامج.
+No restore points yet. Create an app point or select an Android TV above.|لا توجد نقاط استعادة بعد. أنشئ نقطة للتطبيق أو اختر تلفزيون Android أعلاه.
+{0} unreadable restore points were skipped. Their files were kept.|تم تجاوز {0} من نقاط الاستعادة غير القابلة للقراءة، مع الاحتفاظ بملفاتها.
+TV point created: {0} readable values, {1} supported preferences.|تم إنشاء نقطة التلفزيون: {0} قيمة قابلة للقراءة و{1} تفضيلًا مدعومًا.
+Restores TV Monitor settings only. The app reopens after restore. Includes these files:|تستعيد إعدادات TV Monitor فقط. يُفتح التطبيق مجددًا بعد الاستعادة. تشمل الملفات التالية:
+Restores only to the same TV, Android user and firmware. Supported preferences:|تُستعاد على التلفزيون نفسه ومستخدم Android وإصدار النظام نفسيهما فقط. التفضيلات المدعومة:
+TV Monitor settings|إعدادات TV Monitor
+Restore {0} from this point? Current settings will be saved first so you can undo the restore.|هل تريد استعادة {0} من هذه النقطة؟ ستُحفظ الإعدادات الحالية أولًا للتمكن من التراجع.
+Confirm restore|تأكيد الاستعادة
+App settings restored and verified. Reopening TV Monitor…|تمت استعادة إعدادات التطبيق والتحقق منها. جارٍ إعادة فتح TV Monitor…
+Select a restore point first.|اختر نقطة استعادة أولًا.
+Export restore point|تصدير نقطة الاستعادة
+Import restore point|استيراد نقطة الاستعادة
+Restore point exported. Keep it private; it can contain pairing keys and TV preferences.|تم تصدير نقطة الاستعادة. احتفظ بها بسرية؛ فقد تحتوي على مفاتيح الإقران وتفضيلات التلفزيون.
+Restore point imported and verified. Nothing has been restored yet.|تم استيراد النقطة والتحقق منها. لم تُستعد أي إعدادات بعد.
+Wait for the current action and stop live/audio sessions before backup or restore.|انتظر انتهاء العملية الحالية وأوقف جلسات المشاهدة والصوت قبل النسخ أو الاستعادة.
+Working on the restore point…|جارٍ العمل على نقطة الاستعادة…
+Wait for the backup or restore operation to finish before closing.|انتظر انتهاء عملية النسخ أو الاستعادة قبل إغلاق البرنامج.
+The restore point is too large.|حجم نقطة الاستعادة كبير جدًا.
+Invalid restore point.|نقطة الاستعادة غير صالحة.
+Choose an export location outside the app settings folder.|اختر مكان تصدير خارج مجلد إعدادات التطبيق.
+Invalid or unsupported restore point.|نقطة الاستعادة غير صالحة أو غير مدعومة.
+The restore point failed its integrity check.|فشل التحقق من سلامة نقطة الاستعادة.
+Invalid app settings backup.|نسخة إعدادات التطبيق غير صالحة.
+The backup contains an unsupported settings file.|تحتوي النسخة على ملف إعدادات غير مدعوم.
+The backup contains invalid TV connection settings.|تحتوي النسخة على إعدادات اتصال تلفزيون غير صالحة.
+The backup contains an unsupported language.|تحتوي النسخة على لغة غير مدعومة.
+Invalid saved TV setup.|إعداد التلفزيون المحفوظ غير صالح.
+Choose an app restore point.|اختر نقطة استعادة للتطبيق.
+Invalid app recovery journal.|سجل استرداد التطبيق غير صالح.
+Restored settings did not pass verification.|لم تجتز الإعدادات المستعادة عملية التحقق.
+Unsupported settings path.|مسار إعدادات غير مدعوم.
+Linked settings paths cannot be restored.|لا يمكن الاستعادة عبر مسارات إعدادات مرتبطة بمواقع أخرى.
+Finish recovering the interrupted app restore before changing settings.|أكمل استرداد عملية الاستعادة المتوقفة قبل تغيير الإعدادات.
+Invalid TV settings backup.|نسخة إعدادات التلفزيون غير صالحة.
+Invalid TV settings table.|جدول إعدادات التلفزيون غير صالح.
+Invalid TV setting value.|قيمة إعداد التلفزيون غير صالحة.
+This point belongs to a different TV, Android user, or firmware. Restore was blocked.|تخص هذه النقطة تلفزيونًا أو مستخدم Android أو إصدار نظام مختلفًا. تم منع الاستعادة.
+The TV no longer allows reading a required settings table.|لم يعد التلفزيون يسمح بقراءة جدول إعدادات مطلوب.
+Invalid screensaver component in backup.|مكوّن شاشة التوقف في النسخة غير صالح.
+A restorable TV preference has an unsupported value.|تحتوي إحدى تفضيلات التلفزيون على قيمة غير مدعومة للاستعادة.
+A restorable TV preference is outside the supported range.|قيمة أحد تفضيلات التلفزيون خارج النطاق المدعوم للاستعادة.
+Reading TV identity and settings…|جارٍ قراءة هوية التلفزيون وإعداداته…
+Choose a TV restore point.|اختر نقطة استعادة لتلفزيون.
+The current Home app cannot be backed up safely.|لا يمكن حفظ تطبيق الرئيسية الحالي بأمان.
+Install the backup's Home app on the TV before restoring this point.|ثبّت تطبيق الرئيسية المذكور في النسخة على التلفزيون قبل استعادة هذه النقطة.
+Install the backup's screensaver app before restoring this point.|ثبّت تطبيق شاشة التوقف المذكور في النسخة قبل استعادة هذه النقطة.
+The TV already matches this restore point.|إعدادات التلفزيون مطابقة لهذه النقطة بالفعل.
+Restoring supported preferences and verifying TV readback…|جارٍ استعادة التفضيلات المدعومة والتحقق من القيم التي يعيدها التلفزيون…
+Restore failed. Rolling the TV back to its previous settings…|فشلت الاستعادة. جارٍ إعادة التلفزيون إلى إعداداته السابقة…
+The TV restore was only partial. Reconnect the TV and restore its saved Before TV restore point. |اكتملت استعادة التلفزيون جزئيًا فقط. أعد توصيله واستعد نقطة «قبل استعادة التلفزيون» المحفوظة. 
+The TV rejected the restore. Its previous settings were restored. |رفض التلفزيون الاستعادة. تمت إعادة إعداداته السابقة. 
+Supported TV settings restored and read back. Some TVs apply display or sound changes after a restart.|تمت استعادة إعدادات التلفزيون المدعومة والتحقق من قراءتها. قد تطبّق بعض التلفزيونات تغييرات العرض أو الصوت بعد إعادة التشغيل.
+The TV did not complete the settings operation.|لم يكمل التلفزيون عملية الإعدادات.
+TV settings did not pass readback verification.|لم تجتز إعدادات التلفزيون التحقق من القيم المقروءة.
+An interrupted app restore could not be recovered. The recovery journal was kept. |تعذّر استرداد عملية استعادة التطبيق المتوقفة. تم الاحتفاظ بسجل الاسترداد. 
+App restore failed. The previous settings were restored.|فشلت استعادة التطبيق. تمت إعادة الإعدادات السابقة.
+App restore was interrupted. An undo point and recovery journal were saved. Reopen TV Monitor after the file becomes available to recover the previous settings.|توقفت استعادة التطبيق. حُفظت نقطة تراجع وسجل استرداد. أعد فتح TV Monitor بعد إتاحة الملف لاسترداد الإعدادات السابقة.
+Saved language: |اللغة المحفوظة: 
+Current settings could not be backed up. Restore a valid app point before changing them.|تعذّر حفظ نسخة من الإعدادات الحالية. استعد نقطة تطبيق صالحة قبل تغييرها.
+A factory reset can change the TV identity and prevent this restore.|قد تغيّر إعادة ضبط المصنع هوية التلفزيون وتمنع استعادة هذه النقطة.
+Google Play|Google Play
+Google Play: enter an app name, package ID or Play Store link. Choose Install on the TV using its remote or the TV remote button below. Google account, compatibility and purchase prompts stay on the TV.|Google Play: أدخل اسم التطبيق أو معرّف الحزمة أو رابط المتجر. اختر «تثبيت» على التلفزيون بجهاز التحكم أو زر «ريموت التلفزيون» أدناه. تظهر طلبات الحساب والتوافق والشراء على التلفزيون.
+App name, package ID or Google Play link|اسم التطبيق أو معرّف الحزمة أو رابط Google Play
+Google Play app to find|التطبيق المراد البحث عنه في Google Play
+Find on Google Play|بحث في Google Play
+Open Google Play|فتح Google Play
+Check installation|فحص التثبيت
+TV remote|ريموت التلفزيون
+Restore previous Home|استعادة الرئيسية السابقة
+Install APK|تثبيت APK
+Google Play opened on the TV. Select Install there; use TV remote below if needed. Then check installation using the app's link or package ID.|فُتح Google Play على التلفزيون. اختر «تثبيت» هناك، واستخدم الريموت أدناه عند الحاجة. ثم افحص التثبيت باستخدام رابط التطبيق أو معرّف الحزمة.
+Google Play opened on the TV. Browse and install using the TV remote.|فُتح Google Play على التلفزيون. تصفّح وثبّت باستخدام ريموت التلفزيون.
+The app is installed for the current TV user. Refresh TV apps to launch it.|التطبيق مثبّت لمستخدم التلفزيون الحالي. حدّث قائمة التطبيقات لفتحه.
+The app is not installed for the current TV user yet. Finish installation in Google Play, then check again.|التطبيق غير مثبّت لمستخدم التلفزيون الحالي بعد. أكمل التثبيت في Google Play ثم افحص مجددًا.
+Enter an app name, Google Play link or package ID.|أدخل اسم التطبيق أو رابط Google Play أو معرّف الحزمة.
+Use a shorter app name, or paste its Google Play link.|استخدم اسم تطبيق أقصر، أو الصق رابط Google Play الخاص به.
+Paste a Google Play app link or enter its package ID to open or check a specific app.|الصق رابط التطبيق في Google Play أو أدخل معرّف الحزمة لفتح تطبيق محدد أو فحص تثبيته.
+The Google Play link does not contain a valid app package ID.|لا يحتوي رابط Google Play على معرّف حزمة تطبيق صالح.
+Google Play Store is not installed for this TV user. This function requires a TV with Google Play.|متجر Google Play غير مثبّت لمستخدم هذا التلفزيون. تتطلب هذه الوظيفة تلفزيونًا يحتوي على Google Play.
+This TV's Google Play Store could not open that link. Try Open Google Play and search with the TV remote.|تعذّر على Google Play في هذا التلفزيون فتح الرابط. جرّب «فتح Google Play» وابحث بريموت التلفزيون.
+Invalid app package ID.|معرّف حزمة التطبيق غير صالح.
+App: TV connections, LG pairing, language and saved Home/screensaver history. Android TV: readable preferences, with supported display, sound, Home and screensaver restore. Excludes firmware, APKs, private app data and Wi-Fi passwords. Keep exported points private.|التطبيق: اتصالات التلفزيونات وإقران LG واللغة وسجل الرئيسية وشاشة التوقف المحفوظ. تلفزيون Android: التفضيلات القابلة للقراءة واستعادة إعدادات العرض والصوت والرئيسية وشاشة التوقف المدعومة. لا يشمل النظام أو APK أو بيانات التطبيقات الخاصة أو كلمات مرور Wi-Fi. احتفظ بالنسخ المصدّرة بسرية.
+
+{0} · Live controls|{0} · أدوات المشاهدة
+Open remote for {0}|فتح ريموت {0}
+{0} · Send files|{0} · إرسال ملفات
+Send files to TV|إرسال ملفات إلى التلفزيون
+Send files, movies and audio to this Android TV. Existing files are kept; duplicate names receive a number. Use a TV file manager or media player to open the saved files.|أرسل الملفات والأفلام والصوت إلى تلفزيون Android. تبقى الملفات الموجودة محفوظة وتُرقّم الأسماء المكررة. افتح الملفات المحفوظة بمدير ملفات أو مشغل وسائط على التلفزيون.
+Add files|إضافة ملفات
+Remove selected|إزالة المحدد
+Files to send|الملفات المطلوب إرسالها
+Destination folder on TV (inside /sdcard/)|المجلد على التلفزيون (داخل /sdcard/)
+Send to TV|إرسال إلى التلفزيون
+Cancel transfer|إلغاء النقل
+Choose files and a destination folder, then select Send to TV.|اختر الملفات ومجلد الحفظ ثم اضغط «إرسال إلى التلفزيون».
+Transfer results|نتائج النقل
+Choose files to send to the TV|اختر الملفات لإرسالها إلى التلفزيون
+{0} files selected.|تم اختيار {0} ملفات.
+Checking TV storage…|جارٍ فحص تخزين التلفزيون…
+File {0} of {1}: {2} — {3} / {4}|الملف {0} من {1}: {2} — {3} / {4}
+Saved: |تم الحفظ: 
+{0} files saved on {1}. Open the destination folder in a TV file manager or media player.|تم حفظ {0} ملفات على {1}. افتح مجلد الحفظ بمدير ملفات أو مشغل وسائط على التلفزيون.
+Transfer cancelled. Completed files are kept.|أُلغي النقل. تبقى الملفات المكتملة محفوظة.
+The transfer timed out. Check the TV connection and storage.|انتهت مهلة النقل. افحص اتصال التلفزيون ومساحة التخزين.
+Completed files are kept. Any unfinished temporary file is removed when the TV is reachable.|تبقى الملفات المكتملة محفوظة. تُحاول إزالة الملف المؤقت غير المكتمل إذا أمكن الاتصال بالتلفزيون.
+Choose a folder inside /sdcard/, such as /sdcard/Movies/TV Monitor.|اختر مجلدًا داخل /sdcard/ مثل /sdcard/Movies/TV Monitor.
+A file name is too long or invalid for TV storage.|اسم ملف طويل جدًا أو غير صالح لتخزين التلفزيون.
+Choose files first.|اختر الملفات أولًا.
+A selected file no longer exists: |لم يعد الملف المحدد موجودًا: 
+The TV does not have enough free storage for these files.|لا توجد مساحة كافية على التلفزيون لهذه الملفات.
+No unused destination file name could be found.|تعذّر العثور على اسم ملف غير مستخدم في الوجهة.
+The source file changed during transfer.|تغير الملف المصدر أثناء النقل.
+The TV file size could not be verified.|تعذّر التحقق من حجم الملف على التلفزيون.
+Invalid file-transfer response from the TV.|استجابة غير صالحة من التلفزيون أثناء نقل الملف.
+The TV rejected the file: |رفض التلفزيون الملف: 
+All files|جميع الملفات
+Video files|ملفات الفيديو
+Audio files|ملفات الصوت
+Send files to Android TV storage. Existing files are kept; duplicate names receive a number.|أرسل الملفات إلى تخزين تلفزيون Android. تبقى الملفات الموجودة محفوظة وتُرقّم الأسماء المكررة.
+Completed files are kept. Cleanup of the unfinished temporary file is attempted if the TV is reachable.|تبقى الملفات المكتملة محفوظة. يحاول البرنامج إزالة الملف المؤقت غير المكتمل إذا أمكن الاتصال بالتلفزيون.
+Memory & storage|الذاكرة والتخزين
+TV memory|ذاكرة التلفزيون
+{0} · Memory & storage|{0} · الذاكرة والتخزين
+TV shared storage (/sdcard/) and working memory (RAM). Values are reported by the TV.|مساحة تخزين التلفزيون المشتركة (/sdcard/) وذاكرة التشغيل (RAM). يعرض البرنامج القيم التي يبلّغ عنها التلفزيون.
+Storage is space for apps and files. Available RAM includes memory Android can reclaim; it is not space for movies.|التخزين مساحة للتطبيقات والملفات. تشمل RAM المتاحة ذاكرة يستطيع Android تحريرها، وليست مساحة لحفظ الأفلام.
+Refresh memory|تحديث الذاكرة
+TV storage|تخزين التلفزيون
+TV RAM|ذاكرة RAM للتلفزيون
+Not checked yet.|لم يُفحص بعد.
+Checking TV memory…|جارٍ فحص ذاكرة التلفزيون…
+RAM information is unavailable on this TV.|معلومات RAM غير متاحة على هذا التلفزيون.
+Updated: {0:HH:mm:ss}|آخر تحديث: {0:HH:mm:ss}
+Low storage: less than 1 GiB available.|مساحة منخفضة: المتاح أقل من 1 GiB.
+Memory information is unavailable.|معلومات الذاكرة غير متاحة.
+Available: {0}   ·   Total: {1}|المتاح: {0}   ·   الإجمالي: {1}
+Used: {0} ({1}%)|المستخدم: {0} ({1}٪)
+The TV did not report valid storage information.|لم يبلّغ التلفزيون عن معلومات تخزين صالحة.
+IPv4 or IPv6 address|عنوان IPv4 أو IPv6
+IPv6 adapter|محوّل IPv6
+Select adapter for link-local IPv6|اختر محوّل الشبكة لعنوان IPv6 المحلي
+Enter a valid IPv4 or IPv6 address.|أدخل عنوان IPv4 أو IPv6 صالحًا.
+Select the network adapter connected to this IPv6 TV, or include its %scope number.|اختر محوّل الشبكة المتصل بهذا التلفزيون أو أضف رقم النطاق بصيغة %scope.
+Enter a TV name and a valid IPv4 or IPv6 address.|أدخل اسم التلفزيون وعنوان IPv4 أو IPv6 صالحًا.
+This is an IPv6 address. Enter it in IP address, not Wake MAC.|هذا عنوان IPv6. أدخله في خانة عنوان IP وليس Wake MAC.
+Power off requires a supported Android TV or LG webOS connection.|يتطلب إيقاف التشغيل اتصال Android TV أو LG webOS مدعومًا.
+Wake packet sent to {0}. This TV type cannot report its power state; power-on is unconfirmed.|أُرسلت حزمة الإيقاظ إلى {0}. لا يبلّغ هذا النوع عن حالة الطاقة، لذلك لم يُؤكد تشغيله.
+Wake-on-LAN needs an IPv4 connection on the TV's network adapter and the TV's real MAC address.|يتطلب الإيقاظ اتصال IPv4 على محوّل شبكة التلفزيون وعنوان MAC الحقيقي للتلفزيون.
+A network service is reachable. Power state and native controls are unavailable for this TV type.|يمكن الوصول إلى خدمة على الشبكة. حالة الطاقة وأوامر التحكم غير متاحة لهذا النوع من التلفزيونات.
+Saved adapter (not currently connected)|محوّل محفوظ (غير متصل حاليًا)
+Files on TV|الملفات على التلفزيون
+{0} · Files|{0} · الملفات
+Browse the TV's internal and external storage and this PC. Copy, move, rename or delete items, create folders, and send files in either direction.|تصفّح التخزين الداخلي والخارجي للتلفزيون وهذا الكمبيوتر. انسخ العناصر أو انقلها أو أعد تسميتها أو احذفها، وأنشئ مجلدات، وأرسل الملفات في الاتجاهين.
+Up|أعلى
+New folder|مجلد جديد
+Rename|إعادة تسمية
+Delete|حذف
+Copy|نسخ
+Cut|قص
+Paste|لصق
+Download to PC|تنزيل إلى الكمبيوتر
+Stop|إيقاف
+This PC|هذا الكمبيوتر
+This PC files|ملفات هذا الكمبيوتر
+TV files|ملفات التلفزيون
+Name|الاسم
+Size|الحجم
+Modified|آخر تعديل
+Choose a drive or TV folder to start.|اختر قرصًا أو مجلدًا على التلفزيون للبدء.
+No disk drives were found.|لم يُعثر على أقراص.
+This PC folder is not available.|مجلد هذا الكمبيوتر غير متاح.
+This folder is empty.|هذا المجلد فارغ.
+{0} items|{0} عنصرًا
+Opening the TV storage…|جارٍ فتح تخزين التلفزيون…
+Creating folder…|جارٍ إنشاء المجلد…
+Deleting…|جارٍ الحذف…
+Renaming…|جارٍ إعادة التسمية…
+Moving…|جارٍ النقل…
+Copying…|جارٍ النسخ…
+Copy or cut items first.|انسخ العناصر أو اقصها أولًا.
+Nothing is selected on the TV.|لم يتم تحديد شيء على التلفزيون.
+Nothing is selected on this PC.|لم يتم تحديد شيء على هذا الكمبيوتر.
+Delete {0} selected items? This cannot be undone.|هل تريد حذف {0} عنصرًا محددًا؟ لا يمكن التراجع عن ذلك.
+{0} items deleted.|تم حذف {0} عنصرًا.
+Copied {0} items. Choose a folder and Paste.|تم نسخ {0} عنصرًا. اختر مجلدًا ثم الصق.
+Cut {0} items. Choose a folder and Paste.|تم قص {0} عنصرًا. اختر مجلدًا ثم الصق.
+{0} items pasted.|تم لصق {0} عنصرًا.
+{0} created.|تم إنشاء {0}.
+Renamed to {0}.|أُعيدت التسمية إلى {0}.
+New folder name|اسم المجلد الجديد
+Rename item|إعادة تسمية العنصر
+Enter a name.|أدخل اسمًا.
+This name cannot be used.|لا يمكن استخدام هذا الاسم.
+Stopping…|جارٍ الإيقاف…
+Choose files on this PC first.|اختر ملفات على هذا الكمبيوتر أولًا.
+Sending to the TV…|جارٍ الإرسال إلى التلفزيون…
+{0} files sent to {1}.|تم إرسال {0} ملفًا إلى {1}.
+Downloading from the TV…|جارٍ التنزيل من التلفزيون…
+Downloading {0} of {1}: {2}|جارٍ التنزيل {0} من {1}: {2}
+{0} files downloaded to {1}.|تم تنزيل {0} ملفًا إلى {1}.
+Internal storage|التخزين الداخلي
+Folder created.|تم إنشاء المجلد.
+Choose a folder inside the TV storage.|اختر مجلدًا داخل تخزين التلفزيون.
+The TV could not list that folder: |تعذّر على التلفزيون عرض هذا المجلد: 
+Invalid folder listing from the TV.|قائمة مجلدات غير صالحة من التلفزيون.
+Invalid file data from the TV.|بيانات ملف غير صالحة من التلفزيون.
+That name is already used in this folder.|هذا الاسم مستخدم بالفعل في هذا المجلد.
+The TV storage root cannot be deleted.|لا يمكن حذف جذر تخزين التلفزيون.
+A folder cannot be copied into itself.|لا يمكن نسخ مجلد إلى داخله.
+A selected TV item no longer exists: |عنصر محدد على التلفزيون لم يعد موجودًا: 
+Brand|العلامة التجارية
+Auto (detect)|تلقائي (الكشف)
+TV type and brand|نوع التلفزيون وعلامته التجارية
+Turn on TV|تشغيل التلفزيون
+Turn on {0}|تشغيل {0}
+Turning on {0}…|جارٍ تشغيل {0}…
+Chosen TV|التلفزيون المختار
+Open TV Monitor|فتح TV Monitor
+Exit TV Monitor|إغلاق TV Monitor
+No TV is saved. Add a TV in TV Monitor first.|لا يوجد تلفزيون محفوظ. أضف تلفزيونًا في TV Monitor أولًا.
+TV Monitor is still running in the tray. Click its icon to turn on {0}.|لا يزال TV Monitor يعمل في منطقة الإشعارات. انقر على أيقونته لتشغيل {0}.
+TV Monitor is still running in the tray. Open it from the tray menu.|لا يزال TV Monitor يعمل في منطقة الإشعارات. افتحه من قائمة الأيقونة.
+your TV|تلفزيونك
+TV Monitor · Click to turn on {0}|TV Monitor · انقر لتشغيل {0}
+
+Start with Windows|التشغيل مع Windows
+The startup setting could not be saved.|تعذّر حفظ إعداد التشغيل مع Windows.
+Language|اللغة
+TV for the tray switch|التلفزيون المرتبط بأيقونة الدرج
+Language, the tray switch TV, Windows sign-in, refresh timing and live view defaults. Changes are saved immediately.|اللغة وتلفزيون أيقونة الدرج والتشغيل مع Windows ومدة التحديث وإعدادات العرض المباشر. تُحفظ التغييرات فورًا.
+Refresh every|التحديث كل
+seconds|ثانية
+Live view|العرض المباشر
+Video quality|جودة الفيديو
+Low|منخفضة
+Balanced|متوازنة
+High|عالية
+TV sound|صوت التلفزيون
+Auto|تلقائي
+Off|مغلق
+The PC mouse controls the TV|فأرة الحاسوب تتحكم بالتلفزيون
+Open settings folder|فتح مجلد الإعدادات
+Live view changes apply the next time a TV is opened. Refresh changes apply now.|تُطبَّق تغييرات العرض المباشر عند فتح التلفزيون في المرة التالية، ويُطبَّق تغيير التحديث فورًا.
+No TVs saved yet.|لا توجد تلفزيونات محفوظة بعد.
+The tray switch now turns on {0}.|أصبحت أيقونة الدرج تُشغّل {0}.
+Checking every {0} seconds now.|الفحص كل {0} ثانية الآن.
+Settings saved.|تم حفظ الإعدادات.
+Could not save settings. |تعذّر حفظ الإعدادات. 
+The backup contains invalid app settings.|يحتوي النسخ الاحتياطي على إعدادات تطبيق غير صالحة.
+TV Monitor will open quietly in the tray when you sign in to Windows.|سيفتح TV Monitor بهدوء في الدرج عند تسجيل الدخول إلى Windows.
+TV Monitor will no longer start with Windows.|لن يبدأ TV Monitor مع Windows بعد الآن.
+Automatic refresh every {0} seconds.|يُحدَّث تلقائيًا كل {0} ثانية.
+Updated {0:t}  ·  Refreshes every {1} seconds|آخر تحديث: {0:t}  ·  يُحدَّث كل {1} ثانية

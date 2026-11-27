@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationHighDpiMode>PerMonitorV2</ApplicationHighDpiMode>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>TV Monitor</AssemblyName>
+    <Version>1.14.0</Version>
+    <ApplicationIcon>TvMonitor.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(StoreBuild)' == 'true'">
+    <DefineConstants>$(DefineConstants);STORE_BUILD</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NAudio.WinMM" Version="2.2.1" />
+    <EmbeddedResource Include="TvMonitor.ico" LogicalName="TvMonitor.ico" />
+    <EmbeddedResource Include="Arabic.txt" LogicalName="TvMonitor.Arabic" />
+    <EmbeddedResource Include="PrivacyPolicy.txt" LogicalName="TvMonitor.PrivacyPolicy" />
+    <EmbeddedResource Include="BoFawzi.png" LogicalName="TvMonitor.BoFawziLogo" />
+    <Content Include="KLightTV/PreviousSetup.json" Condition="Exists('KLightTV/PreviousSetup.json')" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>
+
+
